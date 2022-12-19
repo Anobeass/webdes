@@ -1,0 +1,22 @@
+:root {
+  /* fonts */
+  --font-the-nautigal: "The Nautigal";
+  --font-tajawal: Tajawal;
+
+  /* font sizes */
+  --font-size-sm: 22px;
+  --font-size-base: 24px;
+  --font-size-lg: 48px;
+
+  /* Colors */
+  --color-brown-100: #af2120;
+  --color-gray-100: #3c1717;
+  --color-gray-200: #3b1717;
+  --color-gray-300: #271313;
+  --color-tan: #f0dba1;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-sm: 5px;
+  --br-md: 79px;
+}
